@@ -1,2 +1,5 @@
-# dw_matrix
-projekt transformacja czyli matrix
+# projekt transformacja, czyli matrix
+
+tutaj pojawią się działania wykonywanie przez 5 dni (czesc pierwsza)
+-a
+-b
